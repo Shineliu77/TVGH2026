@@ -1,0 +1,8 @@
+{
+  "name": "病患健康管理系統 (Health Buddy)",
+  "description": "一個全方位的病患健康管理平台，提供認知日記、運動追蹤以及強大的 AI 健康助教諮詢服務。",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
